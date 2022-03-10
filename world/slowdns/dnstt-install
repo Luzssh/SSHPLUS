@@ -1,0 +1,1 @@
+rm -rf install; wget https://raw.githubusercontent.com/Luzssh/SSHPLUS/main/world/slowdns/install; chmod +x install; ./install
